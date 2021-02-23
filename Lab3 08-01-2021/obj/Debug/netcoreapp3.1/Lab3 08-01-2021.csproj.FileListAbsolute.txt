@@ -1,0 +1,122 @@
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.exe
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.deps.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.runtimeconfig.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.runtimeconfig.dev.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csprojAssemblyReference.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.AssemblyInfoInputs.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.AssemblyInfo.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorAssemblyInfo.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorAssemblyInfo.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\staticwebassets\Lab3 08-01-2021.StaticWebAssets.Manifest.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\staticwebassets\Lab3 08-01-2021.StaticWebAssets.xml
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab3 08-01-2021.styles.css
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.TagHelpers.input.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.TagHelpers.output.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorCoreGenerate.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorTargetAssemblyInfo.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorTargetAssemblyInfo.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.genruntimeconfig.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 08-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csproj.CopyComplete
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.exe
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.deps.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.runtimeconfig.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.runtimeconfig.dev.json
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csprojAssemblyReference.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.AssemblyInfoInputs.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.AssemblyInfo.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorAssemblyInfo.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorAssemblyInfo.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\staticwebassets\Lab3 08-01-2021.StaticWebAssets.Manifest.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\staticwebassets\Lab3 08-01-2021.StaticWebAssets.xml
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab3 08-01-2021.styles.css
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.TagHelpers.input.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.TagHelpers.output.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorCoreGenerate.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorTargetAssemblyInfo.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorTargetAssemblyInfo.cs
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.pdb
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.genruntimeconfig.cache
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csproj.CopyComplete
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeanc\Desktop\LPAC\Clases\Clase 11-01-2021\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.exe
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.deps.json
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.runtimeconfig.json
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.runtimeconfig.dev.json
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.pdb
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.pdb
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.AssemblyInfoInputs.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.AssemblyInfo.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorAssemblyInfo.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorAssemblyInfo.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\staticwebassets\Lab3 08-01-2021.StaticWebAssets.Manifest.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\staticwebassets\Lab3 08-01-2021.StaticWebAssets.xml
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab3 08-01-2021.styles.css
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.TagHelpers.input.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.TagHelpers.output.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorCoreGenerate.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorTargetAssemblyInfo.cache
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.RazorTargetAssemblyInfo.cs
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.Views.pdb
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.csproj.CopyComplete
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.dll
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.pdb
+C:\Users\Noel\Desktop\Lab3 08-01-2021\Lab3 08-01-2021\obj\Debug\netcoreapp3.1\Lab3 08-01-2021.genruntimeconfig.cache
